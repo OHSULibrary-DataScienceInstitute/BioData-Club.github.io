@@ -2,7 +2,7 @@
 #Follow these 2 steps to set up your site.
 
 #Step 1: give your study group a name and a short description:
-title: OHSU Data Science Institute
+title: 
 description: "The OHSU Data Science Institute will bring together researchers, librarians, and information specialists for formal training on key topics in data science. The program will be offered as a three-day workshop from November 6-8, 2017 at the White Stag Building in Portland, Oregon."
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
@@ -18,7 +18,7 @@ description: "The OHSU Data Science Institute will bring together researchers, l
 
 headlineSmall: "Welcome to the OHSU Library Data Science Institute!"
 headlineMain: "November 6-8, 2017"
-avatar: "img/logos/LogoTree_v4.jpg"
+avatar: "img/logos/LogoTreeHorizonal_v4.jpg"
 
 
 # Setup Google Calendar
@@ -51,8 +51,8 @@ levels:
 #========================================
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ACF0F2
-  secondary: ACF0F2
+  primary: 1695A3
+  secondary: 1695A3
   secondary-dark: 333
 
 # Build settings
