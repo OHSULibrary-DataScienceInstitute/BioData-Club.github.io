@@ -52,7 +52,7 @@ levels:
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: ACF0F2
-  secondary: fec503
+  secondary: ACF0F2
   secondary-dark: 333
 
 # Build settings
