@@ -1,3 +1,10 @@
+- name: Asia Mitchell
+  degree: PhD, Molecular and Medical Genetics
+  github: asiadmitchell
+  interests:
+     - GitHub
+     - Genomic data science
+     
 - name: Ted Laderas
   degree: PhD, Bioinformatics
   github: laderast
