@@ -4,26 +4,7 @@ The OHSU Data Science Institute will bring together researchers, librarians, and
 - Increase confidence with using data science techniques.
 -	Increase the ability of participants to use or apply data science techniques in problems outlined in the course
 
-A tentative schedule is:
-
-| Day 1, Mon, Nov 6 | Length of time |
-|------|-----------------|
-| Data Exploration | 2 hours|
-| Statistical Analysis | 1 hour |
-| Data Visualization | 3 hours |
-|||
-| **Day 2, Tues, Nov 7** | **Length of time** |
-| Version Control with Git and GitHub | 1 hour |
-| Data Description, Sharing, and Reuse | 2.5 hours |
-| Data Cleaning and Preparation | 2 hours |
-| Qualitative data analysis | 1 hour |
-| Publisher and Funder Data Use Agreements | 1 hour |
-|||
-| **Day 3, Wed, Nov 8** | **Length of time** |
-| Bibliometric Analysis | 1.5 hours |
-| Web Scraping | 2 hours |
-| Analyzing Textual Data | 1.5 hours |
-| Mapping and Geospatial Visualization with QGIS | 1.5 hours |
+The schedule is available [here](https://ohsulibrary-datascienceinstitute.github.io/#schedule).
 
 All of the teaching materials will be made openly available with a CC-BY license.
 
