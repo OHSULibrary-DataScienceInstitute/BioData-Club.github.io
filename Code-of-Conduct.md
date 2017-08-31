@@ -8,7 +8,7 @@ Please contact [vasilevs@ohsu.edu](mailto:vasilevs@ohsu.edu) or notify one of th
 
 ### The Quick Version
 
-The ODSI is dedicated to providing a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of institute participants in any form. Sexual language and imagery is not appropriate for any learning environment, including sessions, happy hour, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the institute at the discretion of the organizers.
+The DSI is dedicated to providing a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of institute participants in any form. Sexual language and imagery is not appropriate for any learning environment, including sessions, happy hour, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the institute at the discretion of the organizers.
 
 ### The Less Quick Version
 
