@@ -1,4 +1,4 @@
-### OHSU Data Science Institute (ODSI) Code of Conduct
+### OHSU Library Data Science Institute (DSI) Code of Conduct
 
 All attendees, instructors, sponsors and volunteers at our institute are required to agree with the following code of conduct. Organizers will enforce this code throughout the institute. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
@@ -18,7 +18,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the institute.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the ODSI organizers immediately.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the DSI organizers immediately.
 
 The organizers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the institute. We value your attendance.
 
