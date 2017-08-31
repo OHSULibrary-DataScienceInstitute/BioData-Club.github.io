@@ -4,7 +4,7 @@ All attendees, instructors, sponsors and volunteers at our institute are require
 
 ### Need Help?
 
-Please contact [OHSULibraryDataScienceInstitute@ohsu.edu](mailto:OHSULibraryDataScienceInstitute@ohsu.edu) or notify one of the event organizers with any questions or issues.
+Please contact [vasilevs@ohsu.edu](mailto:vasilevs@ohsu.edu) or notify one of the event organizers with any questions or issues.
 
 ### The Quick Version
 
