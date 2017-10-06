@@ -1,4 +1,4 @@
-**Requirments for the Data Science Institute**
+**Requirements for the Data Science Institute**
 
 - Please bring a laptop each day
 
