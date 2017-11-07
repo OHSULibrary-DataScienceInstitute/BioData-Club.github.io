@@ -29,7 +29,7 @@ Letisha Wyatt
 - [Data Description sample data set](https://drive.google.com/file/d/1nLkjuKaeuOM8XbkRcHgB4Ftf1PdH4TiK/view?usp=sharing)
 - [Data Dictionary exercise](https://docs.google.com/document/d/1ldMhIla2icJwhTrkn94jZhLmRPyYnDSuFeImwjBMYlU/edit)
 
-[Data Sharing](https://drive.google.com/drive/folders/0BwJNLRD3KsqGYTNDRXgySUg5cTg)
+[Data Sharing](https://drive.google.com/file/d/12W2JAr_-WbhORONNlM6-foRUTtbYSc8_/view?usp=sharing)
 Robin Champieux
 
 [Data Sharing Exercise](https://docs.google.com/document/d/1urdKZx4t9SfXlP_44ZJwHF0Ja8XG3YiZlf7sfI7mJOQ/edit)
