@@ -29,4 +29,13 @@ Letisha Wyatt
 - [Data Description sample data set](https://drive.google.com/file/d/1nLkjuKaeuOM8XbkRcHgB4Ftf1PdH4TiK/view?usp=sharing)
 - [Data Dictionary exercise](https://docs.google.com/document/d/1ldMhIla2icJwhTrkn94jZhLmRPyYnDSuFeImwjBMYlU/edit)
 
+[Data Sharing](https://drive.google.com/drive/folders/0BwJNLRD3KsqGYTNDRXgySUg5cTg)
+Robin Champieux
+
+[Data Sharing Exercise](https://docs.google.com/document/d/1urdKZx4t9SfXlP_44ZJwHF0Ja8XG3YiZlf7sfI7mJOQ/edit)
+Nicole Vasilevsky
+- [Data Sharing Exercise Articles](https://docs.google.com/spreadsheets/d/1wLzsuPX6nR8il7nH7cdWkty6kmjCow0zWWjnMRH-kc0/edit#gid=0)
+- [Journal Data Sharing Policy Rubric](https://docs.google.com/spreadsheets/d/1IAseuBDdvjhG-naxhZNjGm9NW15mvptCSk9g_QBTtPY/edit#gid=0)
+- [Data Sharing Rubric](https://docs.google.com/document/d/1IZXIbYY4OZ0AuvnK-Se8-9OHloTaZNchoGnUZfnn7To/edit)
+
 ### Day 3
