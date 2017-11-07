@@ -23,4 +23,10 @@ Nicole Vasilevsky
 [Data Standards](https://docs.google.com/presentation/d/1eMo-BPoC0OQsvG2z3wxh85qQbmSwyoygvjVRyGBNyDs/edi)
 Lilly Winfree
 
+Data Description Exercise
+Letisha Wyatt
+- [Data Description exercise instructions](https://docs.google.com/document/d/1uDp0xP8-irS_Axd6CFt4mpcLrtcyPGysBdaLR8kFf3Y/edit)
+- [Data Description sample data set](https://drive.google.com/file/d/1nLkjuKaeuOM8XbkRcHgB4Ftf1PdH4TiK/view?usp=sharing)
+- [Data Dictionary exercise](https://docs.google.com/document/d/1ldMhIla2icJwhTrkn94jZhLmRPyYnDSuFeImwjBMYlU/edit)
+
 ### Day 3
