@@ -40,3 +40,7 @@ Nicole Vasilevsky
 
 [Mixed Study Methods: How Qualitative and Quantitative Data Inform Each Other](https://docs.google.com/presentation/d/11RQpI3YSLpH2x4_Y8Xuiia-99GjYCvmW3Omja3xZkdY/edit#slide=id.p3)
 Patty Carney
+
+### Day 3
+[Web Scraping Basics](https://docs.google.com/presentation/d/1LRt7VMbtc-LXT966gpbBf08xtMEfjUNpkNdFXF0M2S8/edit#slide=id.g27212ec464_0_13)
+Kyle Banerjee
