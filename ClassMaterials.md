@@ -44,3 +44,7 @@ Patty Carney
 ### Day 3
 [Web Scraping Basics](https://docs.google.com/presentation/d/1LRt7VMbtc-LXT966gpbBf08xtMEfjUNpkNdFXF0M2S8/edit#slide=id.g27212ec464_0_13)
 Kyle Banerjee
+
+[Data visualization](https://drive.google.com/drive/folders/1heGslwwU_GBliZU3OsWqlulvj0deEy-S?usp=sharing)
+Jackie Wirz and Steven Bedrick
+
