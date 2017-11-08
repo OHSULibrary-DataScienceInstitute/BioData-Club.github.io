@@ -42,9 +42,12 @@ Nicole Vasilevsky
 Patty Carney
 
 ### Day 3
-[Web Scraping Basics](https://docs.google.com/presentation/d/1LRt7VMbtc-LXT966gpbBf08xtMEfjUNpkNdFXF0M2S8/edit#slide=id.g27212ec464_0_13)
+Elective 2: [Web Scraping Basics](https://docs.google.com/presentation/d/1LRt7VMbtc-LXT966gpbBf08xtMEfjUNpkNdFXF0M2S8/edit#slide=id.g27212ec464_0_13)
 Kyle Banerjee
 
-[Data visualization](https://drive.google.com/drive/folders/1heGslwwU_GBliZU3OsWqlulvj0deEy-S?usp=sharing)
+Elective 1: [Data visualization](https://drive.google.com/drive/folders/1heGslwwU_GBliZU3OsWqlulvj0deEy-S?usp=sharing)
 Jackie Wirz and Steven Bedrick
+
+Elective 2: [Mapping and Geospatial Visualization with QGIS](https://docs.google.com/document/d/1KIunLenqHPb4dRXKNLSv95UbShnAlc4K7TBGmvVcECo/edit#heading=h.jfhgevs44qkm)
+
 
