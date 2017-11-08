@@ -38,3 +38,5 @@ Nicole Vasilevsky
 - [Journal Data Sharing Policy Rubric](https://docs.google.com/spreadsheets/d/1IAseuBDdvjhG-naxhZNjGm9NW15mvptCSk9g_QBTtPY/edit#gid=0)
 - [Data Sharing Rubric](https://docs.google.com/document/d/1IZXIbYY4OZ0AuvnK-Se8-9OHloTaZNchoGnUZfnn7To/edit)
 
+[Mixed Study Methods: How Qualitative and Quantitative Data Inform Each Other](https://docs.google.com/presentation/d/11RQpI3YSLpH2x4_Y8Xuiia-99GjYCvmW3Omja3xZkdY/edit#slide=id.p3)
+Patty Carney
