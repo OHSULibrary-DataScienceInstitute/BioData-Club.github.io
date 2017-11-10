@@ -42,6 +42,8 @@ Nicole Vasilevsky
 Patty Carney
 
 ### Day 3
+Elective 1: [Analyzing textual data](https://drive.google.com/file/d/1iCZxXH-sdSpLW8epRcq6p7uSgf9l9oR7/view?usp=sharing)
+
 Elective 2: [Web Scraping Basics](https://docs.google.com/presentation/d/1LRt7VMbtc-LXT966gpbBf08xtMEfjUNpkNdFXF0M2S8/edit#slide=id.g27212ec464_0_13)
 Kyle Banerjee
 
